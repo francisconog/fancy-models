@@ -59,3 +59,14 @@ This project is is intended to be a repository which I myself implement some mac
 
 --------
 
+## Creating enviroment
+
+```bash
+~$ conda env create --file environment.yml
+```
+
+### Updating enviroment
+
+```bash
+~$ conda env update -f enviroment.yml --prune
+```

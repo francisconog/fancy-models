@@ -10,6 +10,11 @@ dependencies:
   - typer
   - loguru
   - tqdm
+  - pandas
+  - numpy
+  - scikit-learn
+  - jax
+  - fancyimpute
   - pip:
     - python-dotenv
     - mkdocs
