@@ -15,6 +15,7 @@ dependencies:
   - scikit-learn
   - jax
   - fancyimpute
+  - ipykernel
   - pip:
     - python-dotenv
     - mkdocs
